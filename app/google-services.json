@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "767018844575",
+    "project_id": "rateyou-ff120",
+    "storage_bucket": "rateyou-ff120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767018844575:android:e6fbc267c036e050807daa",
+        "android_client_info": {
+          "package_name": "com.swipetechs.rateyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767018844575-fj9luc5qipc1ukrisb387qffpep5m83q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swipetechs.rateyou",
+            "certificate_hash": "3c352ba04537d58e14c2c0472fb95ee1026b5cb9"
+          }
+        },
+        {
+          "client_id": "767018844575-ovhvimsle1n1vq6l7vqf7khn3mqcb610.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi9tGR28lNIP82Do0nr-jXUH-OydFELxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767018844575-ovhvimsle1n1vq6l7vqf7khn3mqcb610.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
